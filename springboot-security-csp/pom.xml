@@ -13,7 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <spring-boot.version>2.2.1.RELEASE</spring-boot.version>
-        <hutool.all.version>5.7.11</hutool.all.version>
+        <hutool.all.version>5.8.12</hutool.all.version>
     </properties>
 
     <dependencies>
