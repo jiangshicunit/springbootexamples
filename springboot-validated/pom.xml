@@ -16,7 +16,7 @@
         <mybatis.plus.version>3.4.3.4</mybatis.plus.version>
         <dynamic.datasource.version>3.4.1</dynamic.datasource.version>
         <mysql.connector.version>5.1.27</mysql.connector.version>
-        <hutool.all.version>5.7.11</hutool.all.version>
+        <hutool.all.version>5.8.12</hutool.all.version>
         <kotlin.version>1.0.0</kotlin.version>
     </properties>
 
