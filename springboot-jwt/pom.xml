@@ -16,7 +16,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <jjwt.version>0.9.0</jjwt.version>
+        <jjwt.version>0.12.0</jjwt.version>
         <java.jwt.version>3.4.0</java.jwt.version>
         <mybatis.springboot.version>2.1.1</mybatis.springboot.version>
     </properties>
